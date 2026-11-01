@@ -133,8 +133,10 @@ plt.show()
 ## Output:
 <img width="619" height="459" alt="image" src="https://github.com/user-attachments/assets/e02d8b4a-ebfd-46fc-bfee-989cbe7a81c3" />
 
-<img width="271" height="45" alt="image" src="https://github.com/user-attachments/assets/adffc9cf-d2c7-4200-88a5-56556d21d654" />
+<img width="261" height="36" alt="image" src="https://github.com/user-attachments/assets/befee05f-9e72-4a35-be0f-540bbfa5de63" />
+
 <img width="601" height="454" alt="image" src="https://github.com/user-attachments/assets/bb57a617-e8e6-49b1-9261-82cd3435d785" />
+
 <img width="1253" height="631" alt="image" src="https://github.com/user-attachments/assets/46d90038-e4b4-4a54-8da2-c8b5e4da2961" />
 
 ## Result:
